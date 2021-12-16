@@ -60,4 +60,3 @@ public class testSelectionSort {
 	    	assertTrue(arr2[i] < 0);
 	    }
 	}
-}
