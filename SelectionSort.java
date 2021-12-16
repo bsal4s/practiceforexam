@@ -1,6 +1,6 @@
 package practice;
-public class SelectionSort {
- private int temp;
+  public class SelectionSort {
+    private int temp;
     public SelectionSort() {
     }
     public int[] basicSelectionSort(int[] x) {
